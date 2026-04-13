@@ -1,17 +1,39 @@
-# Hi 👋, I'm Ramon Sousa
+# Ramon Sousa
 
-### Product Engineer | SaaS | AI Builder | Front End Developer | Design Ops | Next.js
+Desenvolvedor Front-End com background em Product Design e Estratégia de Produto. Minha participação em startups me permitiu dominar o ciclo completo de produto: da concepção de MVPs à implementação final. Colaboro com stakeholders para mitigar riscos técnicos e acelerar o time-to-market — utilizando prototipação de alta fidelidade e testes de usabilidade para validar soluções antes da primeira linha de código.
 
-- 👨‍💻 All of my projects are available at **[https://ramonsousa.com/](https://ramonsousa.com/)**
-
-- 📝 I regularly write articles on **[https://www.linkedin.com/in/ramon-sousa-pereira/](https://www.linkedin.com/in/ramon-sousa-pereira/)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/Ramon-Sousa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Ramon-Sousa" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ramon-sousa-pereira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramon-sousa-pereira" height="30" width="40" /></a>
+<p>
+  <a href="https://ramonsousa.com" target="_blank">Portfolio</a> ·
+  <a href="https://linkedin.com/in/ramon-sousa-pereira" target="_blank">LinkedIn</a> ·
+  <a href="https://github.com/Ramon-Sousa" target="_blank">GitHub</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/angular" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=angular" alt="angular" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/angularjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=angular" alt="angularjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/framer" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/framer" alt="framer" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/graphql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=graphql" alt="graphql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/illustrator" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=illustrator" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/reactnative" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sass" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sketch" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketch/sketch-original.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/xd" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=xd" alt="xd" width="40" height="40"/> </a></p>
+---
 
+### Front-End
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="36" height="36" />
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="36" height="36" />
+  <img src="https://skillicons.dev/icons?i=react" alt="React" width="36" height="36" />
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="36" height="36" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="36" height="36" />
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="36" height="36" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="36" height="36" />
+</p>
+
+### Back-End & Banco de dados
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="36" height="36" />
+  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="36" height="36" />
+  <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" width="36" height="36" />
+</p>
+
+### Design & Ferramentas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="36" height="36" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="36" height="36" />
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="36" height="36" />
+</p>
