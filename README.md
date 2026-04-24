@@ -9,30 +9,17 @@ Desenvolvedor Front-End com background em Product Design e Estratégia de Produt
 
 ---
 
-### Front-End
-
+### front-end
 <p>
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="36" height="36" />
-  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="36" height="36" />
-  <img src="https://skillicons.dev/icons?i=react" alt="React" width="36" height="36" />
-  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="36" height="36" />
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="36" height="36" />
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="36" height="36" />
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="36" height="36" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css" alt="front-end stack" />
 </p>
 
-### Back-End & Banco de dados
-
+### back-end & banco de dados
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="36" height="36" />
-  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="36" height="36" />
-  <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" width="36" height="36" />
+  <img src="https://skillicons.dev/icons?i=nodejs,postgres,prisma" alt="back-end stack" />
 </p>
 
-### Design & Ferramentas
-
+### design & ferramentas
 <p>
-  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="36" height="36" />
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="36" height="36" />
-  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="36" height="36" />
+  <img src="https://skillicons.dev/icons?i=figma,git,postman" alt="design and tools" />
 </p>
